@@ -12,8 +12,8 @@ const styles = {
         "-webkit-text-stroke": {
             lg:"2px black",
             md:"2px black",
-            sm:"1px black",
-            xs:"1px black"
+            sm:"0px black",
+            xs:"0px black"
         },
         fontWeight: "bolder",
         fontFamily: "Berlin Sans FB",
@@ -34,8 +34,8 @@ const styles = {
         "-webkit-text-stroke": {
             lg:"2px black",
             md:"2px black",
-            sm:"1px black",
-            xs:"1px black"
+            sm:"0px black",
+            xs:"0px black"
         },
         fontWeight: "bolder",
         fontFamily: "Berlin Sans FB",
@@ -57,8 +57,8 @@ const styles = {
         "-webkit-text-stroke": {
             lg:"3px black",
             md:"3px black",
-            sm:"2px black",
-            xs:"2px black"
+            sm:"0px black",
+            xs:"0px black"
         },
         color: "white",
         fontWeight: "bolder",
