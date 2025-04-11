@@ -1,0 +1,1617 @@
+[
+    {
+        "category": "Animals",
+        "words": [
+            {
+                "word": "Elephant",
+                "fill_in_blank": "Elep__nt"
+            },
+            {
+                "word": "Giraffe",
+                "fill_in_blank": "Gir__fe"
+            },
+            {
+                "word": "Kangaroo",
+                "fill_in_blank": "Ka_ga_oo"
+            },
+            {
+                "word": "Panda",
+                "fill_in_blank": "P_nda"
+            },
+            {
+                "word": "Dolphin",
+                "fill_in_blank": "Do__hin"
+            },
+            {
+                "word": "Tiger",
+                "fill_in_blank": "Tig_r"
+            },
+            {
+                "word": "Lion",
+                "fill_in_blank": "Li_n"
+            },
+            {
+                "word": "Zebra",
+                "fill_in_blank": "Zeb_a"
+            },
+            {
+                "word": "Bear",
+                "fill_in_blank": "B_ar"
+            },
+            {
+                "word": "Wolf",
+                "fill_in_blank": "W_lf"
+            },
+            {
+                "word": "Rabbit",
+                "fill_in_blank": "Rab__t"
+            },
+            {
+                "word": "Fox",
+                "fill_in_blank": "F_x"
+            },
+            {
+                "word": "Deer",
+                "fill_in_blank": "D_er"
+            },
+            {
+                "word": "Monkey",
+                "fill_in_blank": "Mo_k_y"
+            },
+            {
+                "word": "Crocodile",
+                "fill_in_blank": "Cr_co__le"
+            },
+            {
+                "word": "Hippopotamus",
+                "fill_in_blank": "H_pp_p__amus"
+            },
+            {
+                "word": "Leopard",
+                "fill_in_blank": "L_o_ard"
+            },
+            {
+                "word": "Turtle",
+                "fill_in_blank": "Tu_t_e"
+            },
+            {
+                "word": "Whale",
+                "fill_in_blank": "W_ale"
+            },
+            {
+                "word": "Eagle",
+                "fill_in_blank": "Eag_e"
+            }
+        ]
+    },
+    {
+        "category": "Fruits",
+        "words": [
+            {
+                "word": "Apple",
+                "fill_in_blank": "Ap_le"
+            },
+            {
+                "word": "Banana",
+                "fill_in_blank": "B_n_na"
+            },
+            {
+                "word": "Mango",
+                "fill_in_blank": "Man_o"
+            },
+            {
+                "word": "Orange",
+                "fill_in_blank": "Or_n_e"
+            },
+            {
+                "word": "Pineapple",
+                "fill_in_blank": "Pine_p__e"
+            },
+            {
+                "word": "Strawberry",
+                "fill_in_blank": "Str_w_e_ry"
+            },
+            {
+                "word": "Blueberry",
+                "fill_in_blank": "Blu__e_ry"
+            },
+            {
+                "word": "Grapes",
+                "fill_in_blank": "Gra__s"
+            },
+            {
+                "word": "Cherry",
+                "fill_in_blank": "Che__y"
+            },
+            {
+                "word": "Peach",
+                "fill_in_blank": "Pe_ch"
+            },
+            {
+                "word": "Pear",
+                "fill_in_blank": "Pe_r"
+            },
+            {
+                "word": "Plum",
+                "fill_in_blank": "P_um"
+            },
+            {
+                "word": "Kiwi",
+                "fill_in_blank": "K_wi"
+            },
+            {
+                "word": "Watermelon",
+                "fill_in_blank": "Wa_erme__n"
+            },
+            {
+                "word": "Papaya",
+                "fill_in_blank": "Pa__ya"
+            },
+            {
+                "word": "Lemon",
+                "fill_in_blank": "L_mon"
+            },
+            {
+                "word": "Lychee",
+                "fill_in_blank": "L_c_ee"
+            },
+            {
+                "word": "Guava",
+                "fill_in_blank": "G_ava"
+            },
+            {
+                "word": "Coconut",
+                "fill_in_blank": "Coc_n_t"
+            },
+            {
+                "word": "Pomegranate",
+                "fill_in_blank": "Po_egr_na_e"
+            }
+        ]
+    },
+    {
+        "category": "Vegetables",
+        "words": [
+            {
+                "word": "Carrot",
+                "fill_in_blank": "C_r_ot"
+            },
+            {
+                "word": "Potato",
+                "fill_in_blank": "P_t_to"
+            },
+            {
+                "word": "Tomato",
+                "fill_in_blank": "T__ato"
+            },
+            {
+                "word": "Onion",
+                "fill_in_blank": "Oni_n"
+            },
+            {
+                "word": "Broccoli",
+                "fill_in_blank": "B_oc_oli"
+            },
+            {
+                "word": "Spinach",
+                "fill_in_blank": "S__nach"
+            },
+            {
+                "word": "Cucumber",
+                "fill_in_blank": "Cu_u_ber"
+            },
+            {
+                "word": "Pumpkin",
+                "fill_in_blank": "Pum__in"
+            },
+            {
+                "word": "Peas",
+                "fill_in_blank": "Pe_s"
+            },
+            {
+                "word": "Corn",
+                "fill_in_blank": "C_rn"
+            },
+            {
+                "word": "Garlic",
+                "fill_in_blank": "G_r_ic"
+            },
+            {
+                "word": "Ginger",
+                "fill_in_blank": "Gi__er"
+            },
+            {
+                "word": "Cabbage",
+                "fill_in_blank": "C_bba_e"
+            },
+            {
+                "word": "Cauliflower",
+                "fill_in_blank": "C_ulifl_w_r"
+            },
+            {
+                "word": "Radish",
+                "fill_in_blank": "R_d_sh"
+            },
+            {
+                "word": "Beetroot",
+                "fill_in_blank": "Be__root"
+            },
+            {
+                "word": "Eggplant",
+                "fill_in_blank": "E_gpla_t"
+            },
+            {
+                "word": "Turnip",
+                "fill_in_blank": "T_r_ip"
+            },
+            {
+                "word": "Celery",
+                "fill_in_blank": "Ce__ry"
+            },
+            {
+                "word": "Zucchini",
+                "fill_in_blank": "Z_cchi_i"
+            }
+        ]
+    },
+    {
+        "category": "Countries",
+        "words": [
+            {
+                "word": "India",
+                "fill_in_blank": "I_dia"
+            },
+            {
+                "word": "China",
+                "fill_in_blank": "Chi_a"
+            },
+            {
+                "word": "Brazil",
+                "fill_in_blank": "B_az_l"
+            },
+            {
+                "word": "Canada",
+                "fill_in_blank": "Ca_a_a"
+            },
+            {
+                "word": "Russia",
+                "fill_in_blank": "Ru_s_a"
+            },
+            {
+                "word": "Germany",
+                "fill_in_blank": "Ger_a_y"
+            },
+            {
+                "word": "France",
+                "fill_in_blank": "Fra__e"
+            },
+            {
+                "word": "Italy",
+                "fill_in_blank": "I_aly"
+            },
+            {
+                "word": "Japan",
+                "fill_in_blank": "Jap_n"
+            },
+            {
+                "word": "Mexico",
+                "fill_in_blank": "Me__co"
+            },
+            {
+                "word": "Spain",
+                "fill_in_blank": "Spa_n"
+            },
+            {
+                "word": "Australia",
+                "fill_in_blank": "Au__ra_ia"
+            },
+            {
+                "word": "Argentina",
+                "fill_in_blank": "Arge_t__a"
+            },
+            {
+                "word": "Egypt",
+                "fill_in_blank": "Eg_pt"
+            },
+            {
+                "word": "Nigeria",
+                "fill_in_blank": "Nig_r_a"
+            },
+            {
+                "word": "Norway",
+                "fill_in_blank": "Nor__y"
+            },
+            {
+                "word": "Sweden",
+                "fill_in_blank": "Sw_d_n"
+            },
+            {
+                "word": "Thailand",
+                "fill_in_blank": "Th_il_nd"
+            },
+            {
+                "word": "Vietnam",
+                "fill_in_blank": "V__tnam"
+            },
+            {
+                "word": "Turkey",
+                "fill_in_blank": "Tu__ey"
+            }
+        ]
+    },
+    {
+        "category": "Cities",
+        "words": [
+            {
+                "word": "London",
+                "fill_in_blank": "L__don"
+            },
+            {
+                "word": "Paris",
+                "fill_in_blank": "P_ris"
+            },
+            {
+                "word": "Tokyo",
+                "fill_in_blank": "Tok_o"
+            },
+            {
+                "word": "New York",
+                "fill_in_blank": "Ne_ Y_rk"
+            },
+            {
+                "word": "Delhi",
+                "fill_in_blank": "De_hi"
+            },
+            {
+                "word": "Mumbai",
+                "fill_in_blank": "Mu__ai"
+            },
+            {
+                "word": "Beijing",
+                "fill_in_blank": "Be__ing"
+            },
+            {
+                "word": "Sydney",
+                "fill_in_blank": "Sy_n_y"
+            },
+            {
+                "word": "Toronto",
+                "fill_in_blank": "T_ron_o"
+            },
+            {
+                "word": "Moscow",
+                "fill_in_blank": "Mo_c_w"
+            },
+            {
+                "word": "Berlin",
+                "fill_in_blank": "B__lin"
+            },
+            {
+                "word": "Rome",
+                "fill_in_blank": "R_me"
+            },
+            {
+                "word": "Bangkok",
+                "fill_in_blank": "Bang__k"
+            },
+            {
+                "word": "Dubai",
+                "fill_in_blank": "D_bai"
+            },
+            {
+                "word": "Seoul",
+                "fill_in_blank": "Seo_l"
+            },
+            {
+                "word": "Istanbul",
+                "fill_in_blank": "Is__nbul"
+            },
+            {
+                "word": "Madrid",
+                "fill_in_blank": "Ma__id"
+            },
+            {
+                "word": "Barcelona",
+                "fill_in_blank": "Ba_ce_o_a"
+            },
+            {
+                "word": "Chicago",
+                "fill_in_blank": "C_i_ago"
+            },
+            {
+                "word": "Lisbon",
+                "fill_in_blank": "Li__on"
+            }
+        ]
+    },
+    {
+        "category": "Sports",
+        "words": [
+            {
+                "word": "Football",
+                "fill_in_blank": "Foo__all"
+            },
+            {
+                "word": "Cricket",
+                "fill_in_blank": "Cri_k_t"
+            },
+            {
+                "word": "Basketball",
+                "fill_in_blank": "Ba_ket_a_l"
+            },
+            {
+                "word": "Tennis",
+                "fill_in_blank": "T_nn_s"
+            },
+            {
+                "word": "Baseball",
+                "fill_in_blank": "B_seb_ll"
+            },
+            {
+                "word": "Hockey",
+                "fill_in_blank": "H__key"
+            },
+            {
+                "word": "Golf",
+                "fill_in_blank": "G_lf"
+            },
+            {
+                "word": "Rugby",
+                "fill_in_blank": "Rug_y"
+            },
+            {
+                "word": "Boxing",
+                "fill_in_blank": "B__ing"
+            },
+            {
+                "word": "Wrestling",
+                "fill_in_blank": "Wr__tl_ng"
+            },
+            {
+                "word": "Swimming",
+                "fill_in_blank": "Sw_mmi_g"
+            },
+            {
+                "word": "Cycling",
+                "fill_in_blank": "C_cli_g"
+            },
+            {
+                "word": "Skating",
+                "fill_in_blank": "Sk_ti_g"
+            },
+            {
+                "word": "Archery",
+                "fill_in_blank": "Arc__ry"
+            },
+            {
+                "word": "Badminton",
+                "fill_in_blank": "B_dm_nt_n"
+            },
+            {
+                "word": "Karate",
+                "fill_in_blank": "K_ra_e"
+            },
+            {
+                "word": "Surfing",
+                "fill_in_blank": "Sur_i_g"
+            },
+            {
+                "word": "Rowing",
+                "fill_in_blank": "R_wi_g"
+            },
+            {
+                "word": "Fencing",
+                "fill_in_blank": "F_nci_g"
+            },
+            {
+                "word": "Judo",
+                "fill_in_blank": "J_do"
+            }
+        ]
+    },
+    {
+        "category": "Movies",
+        "words": [
+            {
+                "word": "Inception",
+                "fill_in_blank": "In_e__ion"
+            },
+            {
+                "word": "Titanic",
+                "fill_in_blank": "T_t_nic"
+            },
+            {
+                "word": "Avatar",
+                "fill_in_blank": "A_a_ar"
+            },
+            {
+                "word": "Gladiator",
+                "fill_in_blank": "G_a_iat_r"
+            },
+            {
+                "word": "Frozen",
+                "fill_in_blank": "F__zen"
+            },
+            {
+                "word": "Joker",
+                "fill_in_blank": "Jo_er"
+            },
+            {
+                "word": "Interstellar",
+                "fill_in_blank": "I__er_te_lar"
+            },
+            {
+                "word": "Up",
+                "fill_in_blank": "Up"
+            },
+            {
+                "word": "Coco",
+                "fill_in_blank": "C_co"
+            },
+            {
+                "word": "Brave",
+                "fill_in_blank": "Bra_e"
+            },
+            {
+                "word": "Moana",
+                "fill_in_blank": "Mo_na"
+            },
+            {
+                "word": "Aladdin",
+                "fill_in_blank": "Al_d_in"
+            },
+            {
+                "word": "Mulan",
+                "fill_in_blank": "Mu_an"
+            },
+            {
+                "word": "Cars",
+                "fill_in_blank": "Ca_s"
+            },
+            {
+                "word": "Shrek",
+                "fill_in_blank": "Shr_k"
+            },
+            {
+                "word": "Minions",
+                "fill_in_blank": "Min_o_s"
+            },
+            {
+                "word": "Avengers",
+                "fill_in_blank": "A_enge_s"
+            },
+            {
+                "word": "Batman",
+                "fill_in_blank": "Ba_m_n"
+            },
+            {
+                "word": "Spiderman",
+                "fill_in_blank": "Sp_d_r_an"
+            },
+            {
+                "word": "Zootopia",
+                "fill_in_blank": "Zoo_op_a"
+            }
+        ]
+    },
+    {
+        "category": "Famous Scientists",
+        "words": [
+            {
+                "word": "Einstein",
+                "fill_in_blank": "Ei_s_ein"
+            },
+            {
+                "word": "Newton",
+                "fill_in_blank": "N__ton"
+            },
+            {
+                "word": "Tesla",
+                "fill_in_blank": "Te_la"
+            },
+            {
+                "word": "Curie",
+                "fill_in_blank": "C_rie"
+            },
+            {
+                "word": "Darwin",
+                "fill_in_blank": "Dar__n"
+            },
+            {
+                "word": "Galileo",
+                "fill_in_blank": "Gali__o"
+            },
+            {
+                "word": "Hawking",
+                "fill_in_blank": "H_w_ing"
+            },
+            {
+                "word": "Bohr",
+                "fill_in_blank": "Bo_r"
+            },
+            {
+                "word": "Fleming",
+                "fill_in_blank": "F_em_ng"
+            },
+            {
+                "word": "Faraday",
+                "fill_in_blank": "F_rad_y"
+            },
+            {
+                "word": "Pasteur",
+                "fill_in_blank": "P_s_eur"
+            },
+            {
+                "word": "Kepler",
+                "fill_in_blank": "Ke__er"
+            },
+            {
+                "word": "Mendel",
+                "fill_in_blank": "Men__l"
+            },
+            {
+                "word": "Hubble",
+                "fill_in_blank": "Hu__le"
+            },
+            {
+                "word": "Rutherford",
+                "fill_in_blank": "Ruthe_f__d"
+            },
+            {
+                "word": "Lovelace",
+                "fill_in_blank": "Lo_el_ce"
+            },
+            {
+                "word": "Franklin",
+                "fill_in_blank": "F_ank_in"
+            },
+            {
+                "word": "Turing",
+                "fill_in_blank": "T_ri_g"
+            },
+            {
+                "word": "Fermi",
+                "fill_in_blank": "Fer_i"
+            },
+            {
+                "word": "Planck",
+                "fill_in_blank": "Pl__ck"
+            }
+        ]
+    },
+    {
+        "category": "Musical Instruments",
+        "words": [
+            {
+                "word": "Guitar",
+                "fill_in_blank": "Gu__ar"
+            },
+            {
+                "word": "Piano",
+                "fill_in_blank": "P_ano"
+            },
+            {
+                "word": "Violin",
+                "fill_in_blank": "Vio__n"
+            },
+            {
+                "word": "Drums",
+                "fill_in_blank": "Dr_ms"
+            },
+            {
+                "word": "Flute",
+                "fill_in_blank": "Flu_e"
+            },
+            {
+                "word": "Trumpet",
+                "fill_in_blank": "Tr_mp_t"
+            },
+            {
+                "word": "Saxophone",
+                "fill_in_blank": "S__op_one"
+            },
+            {
+                "word": "Clarinet",
+                "fill_in_blank": "Cla__net"
+            },
+            {
+                "word": "Harp",
+                "fill_in_blank": "H_rp"
+            },
+            {
+                "word": "Cello",
+                "fill_in_blank": "Cel_o"
+            },
+            {
+                "word": "Trombone",
+                "fill_in_blank": "T_ombo_e"
+            },
+            {
+                "word": "Accordion",
+                "fill_in_blank": "Acc__di_n"
+            },
+            {
+                "word": "Banjo",
+                "fill_in_blank": "Ban_o"
+            },
+            {
+                "word": "Oboe",
+                "fill_in_blank": "Ob_e"
+            },
+            {
+                "word": "Tuba",
+                "fill_in_blank": "Tu_a"
+            },
+            {
+                "word": "Tambourine",
+                "fill_in_blank": "Ta_bo_r_ne"
+            },
+            {
+                "word": "Harmonica",
+                "fill_in_blank": "Ha_mo__ca"
+            },
+            {
+                "word": "Bongo",
+                "fill_in_blank": "Bon_o"
+            },
+            {
+                "word": "Synthesizer",
+                "fill_in_blank": "Synt_esi__r"
+            },
+            {
+                "word": "Mandolin",
+                "fill_in_blank": "M__dolin"
+            }
+        ]
+    },
+    {
+        "category": "Car Brands",
+        "words": [
+            {
+                "word": "Toyota",
+                "fill_in_blank": "To__ta"
+            },
+            {
+                "word": "Ford",
+                "fill_in_blank": "F_rd"
+            },
+            {
+                "word": "Honda",
+                "fill_in_blank": "Hon_a"
+            },
+            {
+                "word": "Chevrolet",
+                "fill_in_blank": "Ch_vr_l_t"
+            },
+            {
+                "word": "BMW",
+                "fill_in_blank": "B_W"
+            },
+            {
+                "word": "Mercedes",
+                "fill_in_blank": "Merc_d_s"
+            },
+            {
+                "word": "Audi",
+                "fill_in_blank": "A_di"
+            },
+            {
+                "word": "Hyundai",
+                "fill_in_blank": "Hyun__i"
+            },
+            {
+                "word": "Kia",
+                "fill_in_blank": "K_a"
+            },
+            {
+                "word": "Nissan",
+                "fill_in_blank": "Ni_s_n"
+            },
+            {
+                "word": "Volkswagen",
+                "fill_in_blank": "Vo_ks__gen"
+            },
+            {
+                "word": "Lexus",
+                "fill_in_blank": "Lex_s"
+            },
+            {
+                "word": "Mazda",
+                "fill_in_blank": "M_zda"
+            },
+            {
+                "word": "Jaguar",
+                "fill_in_blank": "J_gu_r"
+            },
+            {
+                "word": "Ferrari",
+                "fill_in_blank": "Fe_r_ri"
+            },
+            {
+                "word": "Lamborghini",
+                "fill_in_blank": "L_mbo_gh_ni"
+            },
+            {
+                "word": "Porsche",
+                "fill_in_blank": "P_rs_he"
+            },
+            {
+                "word": "Subaru",
+                "fill_in_blank": "S_ba_u"
+            },
+            {
+                "word": "Volvo",
+                "fill_in_blank": "V_lvo"
+            },
+            {
+                "word": "Peugeot",
+                "fill_in_blank": "Pe__eot"
+            }
+        ]
+    },
+    {
+        "category": "Superheroes",
+        "words": [
+            {
+                "word": "Superman",
+                "fill_in_blank": "S__erman"
+            },
+            {
+                "word": "Batman",
+                "fill_in_blank": "Ba__an"
+            },
+            {
+                "word": "Spiderman",
+                "fill_in_blank": "Sp_d_r_an"
+            },
+            {
+                "word": "Ironman",
+                "fill_in_blank": "I__nman"
+            },
+            {
+                "word": "Hulk",
+                "fill_in_blank": "H_lk"
+            },
+            {
+                "word": "Thor",
+                "fill_in_blank": "T_or"
+            },
+            {
+                "word": "Captain America",
+                "fill_in_blank": "Capta_n _m___ca"
+            },
+            {
+                "word": "Wolverine",
+                "fill_in_blank": "Wolv__i_e"
+            },
+            {
+                "word": "Deadpool",
+                "fill_in_blank": "De_d_ool"
+            },
+            {
+                "word": "Black Panther",
+                "fill_in_blank": "Bla_k P__th_r"
+            },
+            {
+                "word": "Wonder Woman",
+                "fill_in_blank": "W_n_er_Wom_n"
+            },
+            {
+                "word": "Flash",
+                "fill_in_blank": "Fl_sh"
+            },
+            {
+                "word": "Aquaman",
+                "fill_in_blank": "Aq__man"
+            },
+            {
+                "word": "Antman",
+                "fill_in_blank": "A_t_an"
+            },
+            {
+                "word": "Doctor Strange",
+                "fill_in_blank": "Docto__S_ran_e"
+            },
+            {
+                "word": "Vision",
+                "fill_in_blank": "Vi__on"
+            },
+            {
+                "word": "Hawkeye",
+                "fill_in_blank": "Ha_ke_e"
+            },
+            {
+                "word": "Scarlet Witch",
+                "fill_in_blank": "Sca__et __tch"
+            },
+            {
+                "word": "Green Lantern",
+                "fill_in_blank": "G_e_n_La_tern"
+            },
+            {
+                "word": "Cyborg",
+                "fill_in_blank": "C_b_rg"
+            }
+        ]
+    },
+    {
+        "category": "Disney Characters",
+        "words": [
+            {
+                "word": "Mickey",
+                "fill_in_blank": "M_c_ey"
+            },
+            {
+                "word": "Minnie",
+                "fill_in_blank": "M_nn_e"
+            },
+            {
+                "word": "Donald",
+                "fill_in_blank": "Don__d"
+            },
+            {
+                "word": "Goofy",
+                "fill_in_blank": "Go_fy"
+            },
+            {
+                "word": "Pluto",
+                "fill_in_blank": "P_uto"
+            },
+            {
+                "word": "Simba",
+                "fill_in_blank": "S_mba"
+            },
+            {
+                "word": "Nala",
+                "fill_in_blank": "N_la"
+            },
+            {
+                "word": "Ariel",
+                "fill_in_blank": "Ar_el"
+            },
+            {
+                "word": "Belle",
+                "fill_in_blank": "Bel_e"
+            },
+            {
+                "word": "Cinderella",
+                "fill_in_blank": "Cind_re__a"
+            },
+            {
+                "word": "Elsa",
+                "fill_in_blank": "E_sa"
+            },
+            {
+                "word": "Anna",
+                "fill_in_blank": "A_na"
+            },
+            {
+                "word": "Olaf",
+                "fill_in_blank": "O_af"
+            },
+            {
+                "word": "Buzz",
+                "fill_in_blank": "B_zz"
+            },
+            {
+                "word": "Woody",
+                "fill_in_blank": "W_ody"
+            },
+            {
+                "word": "Tiana",
+                "fill_in_blank": "Tia_a"
+            },
+            {
+                "word": "Rapunzel",
+                "fill_in_blank": "R_pu_zel"
+            },
+            {
+                "word": "Hercules",
+                "fill_in_blank": "Herc_l_s"
+            },
+            {
+                "word": "Stitch",
+                "fill_in_blank": "St__ch"
+            },
+            {
+                "word": "Dumbo",
+                "fill_in_blank": "Dum_o"
+            }
+        ]
+    },
+    {
+        "category": "Planets",
+        "words": [
+            {
+                "word": "Mercury",
+                "fill_in_blank": "Mer__ry"
+            },
+            {
+                "word": "Venus",
+                "fill_in_blank": "Ve_us"
+            },
+            {
+                "word": "Earth",
+                "fill_in_blank": "Ea_th"
+            },
+            {
+                "word": "Mars",
+                "fill_in_blank": "M_rs"
+            },
+            {
+                "word": "Jupiter",
+                "fill_in_blank": "Ju_i_er"
+            },
+            {
+                "word": "Saturn",
+                "fill_in_blank": "S_tu_n"
+            },
+            {
+                "word": "Uranus",
+                "fill_in_blank": "U_an_s"
+            },
+            {
+                "word": "Neptune",
+                "fill_in_blank": "Nep__ne"
+            },
+            {
+                "word": "Pluto",
+                "fill_in_blank": "Plu_o"
+            },
+            {
+                "word": "Ceres",
+                "fill_in_blank": "C_res"
+            },
+            {
+                "word": "Haumea",
+                "fill_in_blank": "H_um_a"
+            },
+            {
+                "word": "Makemake",
+                "fill_in_blank": "M_kema_e"
+            },
+            {
+                "word": "Eris",
+                "fill_in_blank": "Er_s"
+            },
+            {
+                "word": "Europa",
+                "fill_in_blank": "Eu__pa"
+            },
+            {
+                "word": "Titan",
+                "fill_in_blank": "T_tan"
+            },
+            {
+                "word": "Ganymede",
+                "fill_in_blank": "G_nym_de"
+            },
+            {
+                "word": "Callisto",
+                "fill_in_blank": "Ca_lis_o"
+            },
+            {
+                "word": "Io",
+                "fill_in_blank": "Io"
+            },
+            {
+                "word": "Phobos",
+                "fill_in_blank": "P_ob_s"
+            },
+            {
+                "word": "Deimos",
+                "fill_in_blank": "De_m_s"
+            }
+        ]
+    },
+    {
+        "category": "Occupations (Jobs)",
+        "words": [
+            {
+                "word": "Doctor",
+                "fill_in_blank": "Do__or"
+            },
+            {
+                "word": "Engineer",
+                "fill_in_blank": "En_ine_r"
+            },
+            {
+                "word": "Teacher",
+                "fill_in_blank": "Tea__er"
+            },
+            {
+                "word": "Nurse",
+                "fill_in_blank": "Nu_se"
+            },
+            {
+                "word": "Lawyer",
+                "fill_in_blank": "La__er"
+            },
+            {
+                "word": "Chef",
+                "fill_in_blank": "C_ef"
+            },
+            {
+                "word": "Pilot",
+                "fill_in_blank": "Pil_t"
+            },
+            {
+                "word": "Farmer",
+                "fill_in_blank": "F_r_er"
+            },
+            {
+                "word": "Artist",
+                "fill_in_blank": "A_ti_t"
+            },
+            {
+                "word": "Scientist",
+                "fill_in_blank": "Sc___tist"
+            },
+            {
+                "word": "Police",
+                "fill_in_blank": "P_li_e"
+            },
+            {
+                "word": "Firefighter",
+                "fill_in_blank": "Fi___ighter"
+            },
+            {
+                "word": "Carpenter",
+                "fill_in_blank": "Car___ter"
+            },
+            {
+                "word": "Plumber",
+                "fill_in_blank": "Plum__r"
+            },
+            {
+                "word": "Electrician",
+                "fill_in_blank": "Ele_tr_ci_n"
+            },
+            {
+                "word": "Architect",
+                "fill_in_blank": "A_ch_t_ct"
+            },
+            {
+                "word": "Dentist",
+                "fill_in_blank": "Den_i_t"
+            },
+            {
+                "word": "Cashier",
+                "fill_in_blank": "Ca__ier"
+            },
+            {
+                "word": "Mechanic",
+                "fill_in_blank": "Me_ha_ic"
+            },
+            {
+                "word": "Journalist",
+                "fill_in_blank": "Jou__al_st"
+            }
+        ]
+    },
+    {
+        "category": "Food & Drinks",
+        "words": [
+            {
+                "word": "Pizza",
+                "fill_in_blank": "P_zza"
+            },
+            {
+                "word": "Burger",
+                "fill_in_blank": "Bur__r"
+            },
+            {
+                "word": "Pasta",
+                "fill_in_blank": "P_sta"
+            },
+            {
+                "word": "Sushi",
+                "fill_in_blank": "Sus_i"
+            },
+            {
+                "word": "Sandwich",
+                "fill_in_blank": "S__dwich"
+            },
+            {
+                "word": "Taco",
+                "fill_in_blank": "T_co"
+            },
+            {
+                "word": "Steak",
+                "fill_in_blank": "St_ak"
+            },
+            {
+                "word": "Salad",
+                "fill_in_blank": "Sal_d"
+            },
+            {
+                "word": "Soup",
+                "fill_in_blank": "S_up"
+            },
+            {
+                "word": "Noodles",
+                "fill_in_blank": "N_od_es"
+            },
+            {
+                "word": "Ice Cream",
+                "fill_in_blank": "Ic_ _r_am"
+            },
+            {
+                "word": "Cake",
+                "fill_in_blank": "Ca_e"
+            },
+            {
+                "word": "Coffee",
+                "fill_in_blank": "C__fee"
+            },
+            {
+                "word": "Tea",
+                "fill_in_blank": "T_a"
+            },
+            {
+                "word": "Juice",
+                "fill_in_blank": "Ju_ce"
+            },
+            {
+                "word": "Smoothie",
+                "fill_in_blank": "Smoo__ie"
+            },
+            {
+                "word": "Curry",
+                "fill_in_blank": "Cur_y"
+            },
+            {
+                "word": "Rice",
+                "fill_in_blank": "R_ce"
+            },
+            {
+                "word": "Bread",
+                "fill_in_blank": "Br_ad"
+            },
+            {
+                "word": "Fries",
+                "fill_in_blank": "Fri_s"
+            }
+        ]
+    },
+    {
+        "category": "Historical Figures",
+        "words": [
+            {
+                "word": "Lincoln",
+                "fill_in_blank": "L_nc_ln"
+            },
+            {
+                "word": "Gandhi",
+                "fill_in_blank": "G_nd_i"
+            },
+            {
+                "word": "Mandela",
+                "fill_in_blank": "M_nd_la"
+            },
+            {
+                "word": "Churchill",
+                "fill_in_blank": "C_u_ch_ll"
+            },
+            {
+                "word": "Napoleon",
+                "fill_in_blank": "N__oleon"
+            },
+            {
+                "word": "Caesar",
+                "fill_in_blank": "C__sar"
+            },
+            {
+                "word": "Washington",
+                "fill_in_blank": "Was_ing__n"
+            },
+            {
+                "word": "Alexander",
+                "fill_in_blank": "Alex__d_r"
+            },
+            {
+                "word": "Aristotle",
+                "fill_in_blank": "A_is_o_le"
+            },
+            {
+                "word": "Socrates",
+                "fill_in_blank": "So__ates"
+            },
+            {
+                "word": "Plato",
+                "fill_in_blank": "Pla_o"
+            },
+            {
+                "word": "Hitler",
+                "fill_in_blank": "Hit__r"
+            },
+            {
+                "word": "Stalin",
+                "fill_in_blank": "Sta__n"
+            },
+            {
+                "word": "Roosevelt",
+                "fill_in_blank": "Ro_s_v_lt"
+            },
+            {
+                "word": "Columbus",
+                "fill_in_blank": "C__umbus"
+            },
+            {
+                "word": "Einstein",
+                "fill_in_blank": "Ei_ste_n"
+            },
+            {
+                "word": "Martin Luther",
+                "fill_in_blank": "Ma_tin _u_h_r"
+            },
+            {
+                "word": "Mother Teresa",
+                "fill_in_blank": "M_t_er_Tere_a"
+            },
+            {
+                "word": "Newton",
+                "fill_in_blank": "Ne_t_n"
+            },
+            {
+                "word": "Leonardo",
+                "fill_in_blank": "L_onar_o"
+            }
+        ]
+    },
+    {
+        "category": "Tech Gadgets",
+        "words": [
+            {
+                "word": "Smartphone",
+                "fill_in_blank": "S_art_ho_e"
+            },
+            {
+                "word": "Laptop",
+                "fill_in_blank": "Lap__p"
+            },
+            {
+                "word": "Tablet",
+                "fill_in_blank": "T_bl_t"
+            },
+            {
+                "word": "Smartwatch",
+                "fill_in_blank": "Smar__a_ch"
+            },
+            {
+                "word": "Headphones",
+                "fill_in_blank": "H_adp__nes"
+            },
+            {
+                "word": "Camera",
+                "fill_in_blank": "Ca__ra"
+            },
+            {
+                "word": "Drone",
+                "fill_in_blank": "Dr_ne"
+            },
+            {
+                "word": "Speaker",
+                "fill_in_blank": "S_e_ker"
+            },
+            {
+                "word": "Router",
+                "fill_in_blank": "R_ut_r"
+            },
+            {
+                "word": "Monitor",
+                "fill_in_blank": "M__itor"
+            },
+            {
+                "word": "Printer",
+                "fill_in_blank": "P_i_ter"
+            },
+            {
+                "word": "Keyboard",
+                "fill_in_blank": "Key_o_rd"
+            },
+            {
+                "word": "Mouse",
+                "fill_in_blank": "Mo_se"
+            },
+            {
+                "word": "Charger",
+                "fill_in_blank": "Ch_rg_r"
+            },
+            {
+                "word": "Projector",
+                "fill_in_blank": "P_oj_ct_r"
+            },
+            {
+                "word": "Scanner",
+                "fill_in_blank": "Sca_n_r"
+            },
+            {
+                "word": "Webcam",
+                "fill_in_blank": "Web__m"
+            },
+            {
+                "word": "VR Headset",
+                "fill_in_blank": "V__Hea_set"
+            },
+            {
+                "word": "Power Bank",
+                "fill_in_blank": "Pow__ _ank"
+            },
+            {
+                "word": "Game Console",
+                "fill_in_blank": "G_me_C_n_ole"
+            }
+        ]
+    },
+    {
+        "category": "Board Games",
+        "words": [
+            {
+                "word": "Chess",
+                "fill_in_blank": "Che_s"
+            },
+            {
+                "word": "Checkers",
+                "fill_in_blank": "Che_ke_s"
+            },
+            {
+                "word": "Monopoly",
+                "fill_in_blank": "Mo_o_oly"
+            },
+            {
+                "word": "Scrabble",
+                "fill_in_blank": "Scr__ble"
+            },
+            {
+                "word": "Clue",
+                "fill_in_blank": "C_ue"
+            },
+            {
+                "word": "Risk",
+                "fill_in_blank": "Ri_k"
+            },
+            {
+                "word": "Catan",
+                "fill_in_blank": "Ca_an"
+            },
+            {
+                "word": "Uno",
+                "fill_in_blank": "U_o"
+            },
+            {
+                "word": "Battleship",
+                "fill_in_blank": "Ba_tl_s_ip"
+            },
+            {
+                "word": "Jenga",
+                "fill_in_blank": "J_nga"
+            },
+            {
+                "word": "Carrom",
+                "fill_in_blank": "C_rr_m"
+            },
+            {
+                "word": "Life",
+                "fill_in_blank": "L_fe"
+            },
+            {
+                "word": "Guess Who",
+                "fill_in_blank": "Gu__s _ho"
+            },
+            {
+                "word": "Trouble",
+                "fill_in_blank": "T_ou_le"
+            },
+            {
+                "word": "Connect Four",
+                "fill_in_blank": "C_nn_c__Four"
+            },
+            {
+                "word": "Sorry",
+                "fill_in_blank": "S_rry"
+            },
+            {
+                "word": "Ticket to Ride",
+                "fill_in_blank": "Ti_ket__o R_de"
+            },
+            {
+                "word": "Pandemic",
+                "fill_in_blank": "P_n_emic"
+            },
+            {
+                "word": "Twister",
+                "fill_in_blank": "T_i_ter"
+            },
+            {
+                "word": "Othello",
+                "fill_in_blank": "O__ello"
+            }
+        ]
+    },
+    {
+        "category": "Fictional Creatures",
+        "words": [
+            {
+                "word": "Dragon",
+                "fill_in_blank": "D__gon"
+            },
+            {
+                "word": "Unicorn",
+                "fill_in_blank": "Un_c_rn"
+            },
+            {
+                "word": "Phoenix",
+                "fill_in_blank": "P_o_nix"
+            },
+            {
+                "word": "Mermaid",
+                "fill_in_blank": "Me_ma_d"
+            },
+            {
+                "word": "Griffin",
+                "fill_in_blank": "Gri__in"
+            },
+            {
+                "word": "Werewolf",
+                "fill_in_blank": "We_e_olf"
+            },
+            {
+                "word": "Vampire",
+                "fill_in_blank": "Va_p_re"
+            },
+            {
+                "word": "Zombie",
+                "fill_in_blank": "Z__bie"
+            },
+            {
+                "word": "Centaur",
+                "fill_in_blank": "Cen__ur"
+            },
+            {
+                "word": "Hydra",
+                "fill_in_blank": "Hyd_a"
+            },
+            {
+                "word": "Kraken",
+                "fill_in_blank": "Kra__n"
+            },
+            {
+                "word": "Goblin",
+                "fill_in_blank": "G__lin"
+            },
+            {
+                "word": "Troll",
+                "fill_in_blank": "Tr_ll"
+            },
+            {
+                "word": "Fairy",
+                "fill_in_blank": "Fa_ry"
+            },
+            {
+                "word": "Elf",
+                "fill_in_blank": "E_f"
+            },
+            {
+                "word": "Dwarf",
+                "fill_in_blank": "D_arf"
+            },
+            {
+                "word": "Gnome",
+                "fill_in_blank": "G_ome"
+            },
+            {
+                "word": "Yeti",
+                "fill_in_blank": "Ye_i"
+            },
+            {
+                "word": "Minotaur",
+                "fill_in_blank": "Min_ta_r"
+            },
+            {
+                "word": "Basilisk",
+                "fill_in_blank": "B__ilisk"
+            }
+        ]
+    }
+]
