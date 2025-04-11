@@ -6,8 +6,8 @@ const styles={
         fontSize: {
           lg:80,
           md:80,
-          sm:60,
-          xs:60
+          sm:40,
+          xs:40
       },
         "-webkit-text-stroke": {
             lg:"3px black",

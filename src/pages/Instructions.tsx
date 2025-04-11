@@ -23,8 +23,8 @@ const styles = {
         fontSize: {
             lg:80,
             md:80,
-            sm:60,
-            xs:60
+            sm:40,
+            xs:40
         },
        "-webkit-text-stroke": {
             lg:"3px black",
@@ -42,8 +42,8 @@ const styles = {
         fontSize:{
             lg:40,
             md:40,
-            sm:35,
-            xs:35
+            sm:30,
+            xs:30
         },
         color: "white",
         "-webkit-text-stroke": {
