@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      { "source": "/", "destination": "/" },
+      { "source": "/category", "destination": "/" },
+      { "source": "/hangman", "destination": "/" },
+      { "source": "/instructions", "destination": "/" },
+      { "source": "/(.*)", "destination": "/" }
+    ]
+  }
