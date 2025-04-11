@@ -6,10 +6,15 @@ const styles={
         fontSize: {
           lg:80,
           md:80,
-          sm:40,
-          xs:40
+          sm:60,
+          xs:60
       },
-        "-webkit-text-stroke": "3px black",
+        "-webkit-text-stroke": {
+            lg:"3px black",
+            md:"3px black",
+            sm:"0px black",
+            xs:"0px black"
+        },
         color: "white",
         fontWeight: "bolder",
         background: "-webkit-linear-gradient(#cc33ff,#ffffcc)",

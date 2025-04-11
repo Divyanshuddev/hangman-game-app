@@ -23,10 +23,15 @@ const styles = {
         fontSize: {
             lg:80,
             md:80,
-            sm:40,
-            xs:40
+            sm:60,
+            xs:60
         },
-        "-webkit-text-stroke": "3px black",
+       "-webkit-text-stroke": {
+            lg:"3px black",
+            md:"3px black",
+            sm:"0px black",
+            xs:"0px black"
+        },
         color: "white",
         fontWeight: "bolder",
         background: "-webkit-linear-gradient(#cc33ff,#ffffcc)",
@@ -37,11 +42,16 @@ const styles = {
         fontSize:{
             lg:40,
             md:40,
-            sm:30,
-            xs:30
+            sm:35,
+            xs:35
         },
         color: "white",
-        "-webkit-text-stroke": "2px black",
+        "-webkit-text-stroke": {
+            lg:"2px black",
+            md:"2px black",
+            sm:"0px black",
+            xs:"0px black"
+        },
         fontWeight: "bolder",
         fontFamily: "Berlin Sans FB",
         background: "-webkit-linear-gradient(#6699ff,#ffffcc)",

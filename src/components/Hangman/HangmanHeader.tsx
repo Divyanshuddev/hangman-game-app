@@ -5,7 +5,12 @@ const styles = {
         fontSize: 50,
         color: "white",
         fontFamily: "Berlin Sans FB",
-        "-webkit-text-stroke": "2px black",
+       "-webkit-text-stroke": {
+            lg:"2px black",
+            md:"2px black",
+            sm:"0px black",
+            xs:"0px black"
+        },
         fontWeight: "bolder",
         textShadow: "1px 1px 8px black"
     },
