@@ -22,14 +22,14 @@ const styles = {
         width: {
             lg:150,
             md:150,
-            sm:50,
-            xs:50
+            sm:60,
+            xs:60
         },
         height: {
             lg:150,
             md:150,
-            sm:50,
-            xs:50
+            sm:60,
+            xs:60
         },
         boxShadow: "1px 1px 10px black",
         borderRadius: 6,
